@@ -1,16 +1,28 @@
-## Hi there 👋
+# Abreu Agrobusiness
 
-<!--
-**abreuagrobusiness/abreuagrobusiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oferecemos soluções completas para o agronegócio, com foco em eficiência produtiva, organização técnica e resultados no campo.
 
-Here are some ideas to get you started:
+## Nossos serviços
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Consultoria técnica especializada  
+- Formulação de ração  
+- Escrituração zootécnica  
+- Comunicação e identificação de animais  
+- Treinamento de mão de obra  
+- Assessoria em vendas e eventos  
+- Marketing digital voltado ao agro  
+
+## Produtos e parcerias
+
+- Comercialização de núcleo e sal mineral **Nutron Cargill**  
+- Comercialização de brincos, cercas elétricas, pistolas aplicadoras e balanças **Datamars**  
+- Registro de animais da raça **Girolando**  
+
+## Contato
+
+- Telefone / WhatsApp: **(89) 99904-6484**  
+- Instagram: [@abreuagrobusiness](https://www.instagram.com/abreuagrobusiness)
+
+---
+
+Estamos prontos para evoluir com você.
